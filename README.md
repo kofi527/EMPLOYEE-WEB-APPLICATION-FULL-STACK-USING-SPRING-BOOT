@@ -11,3 +11,8 @@
 2. Adding the various packages for the backend
 
    ![2  Added packages to be used for the project](https://github.com/user-attachments/assets/0df1a684-9034-4c1d-b2c6-790b020e705a)
+
+3. creating a react app for the front end project
+
+   ![3  after creating a react project app use npm start to start the local host](https://github.com/user-attachments/assets/c33425d6-dc4f-4db6-a402-92b62b4fd28c)
+
