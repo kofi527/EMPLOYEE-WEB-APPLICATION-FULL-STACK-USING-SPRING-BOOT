@@ -21,3 +21,6 @@
    ![4 lets install my sql work bench to assist with data](https://github.com/user-attachments/assets/4f5f74ab-2f59-46a2-8dfc-a0f9902b7e2e)
 5. creating a schema for our project database system
    ![5  creating schema within my sql workbench](https://github.com/user-attachments/assets/c731c436-afbd-4758-9742-70ce9249465f)
+
+6. setting up tail wind with react application for the front end
+   ![6  successfully setup tailwind with our react applicatioin](https://github.com/user-attachments/assets/e2e47683-b09a-4d04-a0ed-677c0c8da7c3)
