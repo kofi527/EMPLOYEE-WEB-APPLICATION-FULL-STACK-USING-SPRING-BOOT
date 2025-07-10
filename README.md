@@ -19,3 +19,5 @@
 4. we have to install a sql workbench that will connect with mysql hence establishing a connection
 
    ![4 lets install my sql work bench to assist with data](https://github.com/user-attachments/assets/4f5f74ab-2f59-46a2-8dfc-a0f9902b7e2e)
+5. creating a schema for our project database system
+   ![5  creating schema within my sql workbench](https://github.com/user-attachments/assets/c731c436-afbd-4758-9742-70ce9249465f)
